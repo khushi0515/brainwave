@@ -1,6 +1,6 @@
 import ButtonGradient from "./assets/svg/ButtonGradient.jsx";
 import Header from "./components/Header";
-import Hero from "./components/Hero";
+//import Hero from "./components/Hero";
 
 const App = () => {
   return (
