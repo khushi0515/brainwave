@@ -1,9 +1,8 @@
-import React from 'react'
+import Section from "./Section";
 
 const Collaboration = () => {
-  return (
-    <div>Collaboration</div>
-  )
-}
+  return <Section>Collaboration</Section>
+  
+};
 
-export default Collaboration
+export default Collaboration;
