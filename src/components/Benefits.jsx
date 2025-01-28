@@ -29,6 +29,8 @@ const Benefits = () => {
                     height={48}
                     alt={item.title}
                   />
+                  <p>Explore more</p>
+                  <Arrow />
                 </div>
               </div>
             </div>
